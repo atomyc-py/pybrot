@@ -74,7 +74,7 @@ ___
 Pybrot creates instances of Buddhabrots and Nebulabrots as described by Melinda
 Green, discoverer of the methods.  The brots are derived from the Mandelbrot set
 and the mathematics are mostly similar.  Check these [links](#references) out
-for more details on this.  
+for more details.  
 
 The current buddha and nebula classes have been optimized for deep rendering and
 as such users may find there are faster implementations (forthcoming in pybrot!)
