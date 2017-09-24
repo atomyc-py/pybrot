@@ -121,7 +121,7 @@ $ python3 setup.py install
    faster.
 
 
-### Forthcoming / To Do / Musings
+### Forthcoming | To Do | Musings
 
 * seed values
 * docstrings
