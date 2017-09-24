@@ -36,7 +36,7 @@ ___
  - [About](#about)
  - [Download and Installation](#download-and-installation)
  - [Important Notes](#important-notes)
- - [Forthcoming, To Do, Musings](#forthcoming,-to-do,-musings)
+ - [Forthcoming/To Do/Musings](#forthcoming-to-do-musings)
  - [Future Forks](#future-forks)
  - [References](#references)
  - [License](#license)
@@ -121,7 +121,7 @@ $ python3 setup.py install
    faster.
 
 
-### Forthcoming, To Do, Musings
+### Forthcoming/To Do/Musings
 
 * seed values
 * docstrings
